@@ -1,4 +1,4 @@
-[![frodo821's github stats](https://github-readme-stats.vercel.app/api?username=frodo821&show_icons=true)](https://github.com/frodo821)
+[![frodo821's github stats](https://github-readme-stats.vercel.app/api?username=frodo821&show_icons=true&count_private=true)](https://github.com/frodo821)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frodo821)](https://github.com/frodo821)
 
 [![GitHub](https://img.shields.io/github/followers/frodo821?style=flat&logo=github)](https://github.com/frodo821)
